@@ -1,0 +1,20 @@
+[INFO ] 2022-03-04 16:16:04.574 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[ERROR] 2022-03-04 16:16:04.579 [main] AspectConfig - An exception has been thrown when running void com.loonycorn.aopadvices.Order.displayOrderItems()
+[ERROR] 2022-03-04 16:16:04.580 [main] AspectConfig - Exception message: There are no orders in the cart
+
+
+[INFO ] 2022-03-04 16:30:10.069 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[ERROR] 2022-03-04 16:30:10.073 [main] AspectConfig - An exception has been thrown when running void com.loonycorn.aopadvices.Order.displayOrderItems()
+[ERROR] 2022-03-04 16:30:10.073 [main] AspectConfig - Exception message: There are no orders in the cart
+
+
+[INFO ] 2022-03-07 09:55:02.325 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[ERROR] 2022-03-07 09:55:02.329 [main] AspectConfig - An exception has been thrown when running void com.loonycorn.aopadvices.Order.displayOrderItems()
+[ERROR] 2022-03-07 09:55:02.329 [main] AspectConfig - Exception message: There are no orders in the cart
+
+
+[INFO ] 2022-03-07 09:56:40.098 [main] AspectConfig - Logo printed before invocation of: displayOrderItems
+[ERROR] 2022-03-07 09:56:40.101 [main] AspectConfig - An exception has been thrown when running void com.loonycorn.aopadvices.Order.displayOrderItems()
+[ERROR] 2022-03-07 09:56:40.102 [main] AspectConfig - Exception message: There are no orders in the cart
+
+
